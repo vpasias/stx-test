@@ -26,4 +26,4 @@ general_system_configurations:
   os_system_memory: 1024
   disk_space_allocated_to_os: 0
   os_system_cores: 2
-  default_mount_point: '/'
+  default_mount_point: '/mnt/extra'
