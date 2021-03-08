@@ -24,6 +24,6 @@ Computes:
     system_cores: 8
 general_system_configurations:
   os_system_memory: 1024
-  disk_space_allocated_to_os: 20
+  disk_space_allocated_to_os: 8
   os_system_cores: 2
-  default_mount_point: '/mnt/extra/libvirt'
+  default_mount_point: '/'
