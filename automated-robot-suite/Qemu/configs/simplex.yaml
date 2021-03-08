@@ -3,8 +3,8 @@ Controllers:
     partition_a: 600
     partition_b: 100
     partition_d: 100
-    memory_size: 25600
-    system_cores: 6
+    memory_size: 32768
+    system_cores: 8
 general_system_configurations:
   os_system_memory: 1024
   disk_space_allocated_to_os: 20
