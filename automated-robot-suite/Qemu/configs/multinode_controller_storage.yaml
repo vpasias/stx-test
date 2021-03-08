@@ -3,25 +3,25 @@ Controllers:
     partition_a: 250
     partition_b: 250
     partition_d: 50
-    memory_size: 16384
-    system_cores: 4
+    memory_size: 32768
+    system_cores: 8
   controller-1:
     partition_a: 250
     partition_b: 250
     partition_d: 50
-    memory_size: 16384
-    system_cores: 4
+    memory_size: 32768
+    system_cores: 8
 Computes:
   compute-0:
     partition_a: 250
     partition_b: 250
-    memory_size: 10240
-    system_cores: 3
+    memory_size: 32768
+    system_cores: 8
   compute-1:
     partition_a: 250
     partition_b: 250
-    memory_size: 10240
-    system_cores: 3
+    memory_size: 32768
+    system_cores: 8
 general_system_configurations:
   os_system_memory: 1024
   disk_space_allocated_to_os: 20
