@@ -66,6 +66,9 @@ pip install -r requirements.txt
 pip install -r test-requirements.txt
 
 python runner.py --run-suite Setup --configuration 4 --environment virtual
+# ps aux | grep console
+# kill -9 [PID]
+# virsh -c qemu:///system console controller-0
 
 python runner.py --run-suite Provision
 
